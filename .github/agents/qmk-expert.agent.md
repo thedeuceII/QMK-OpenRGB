@@ -1,7 +1,7 @@
 ---
 name: "QMK Expert"
 description: "Use when authoring, editing, reviewing, or debugging QMK firmware, keyboard definitions, keymaps, custom keycodes, layers, combos, tap dance, encoders, RGB, OLED, split keyboards, matrix configuration, and build issues in QMK repositories."
-tools: [read/getNotebookSummary, read/problems, read/readFile, read/viewImage, read/terminalSelection, read/terminalLastCommand, edit/createDirectory, edit/createFile, edit/createJupyterNotebook, edit/editFiles, edit/editNotebook, edit/rename, search/changes, search/codebase, search/fileSearch, search/listDirectory, search/searchResults, search/textSearch, search/usages, browser/openBrowserPage, todo]
+tools: [read/getNotebookSummary, read/problems, read/readFile, read/viewImage, read/terminalSelection, read/terminalLastCommand, edit/createDirectory, edit/createFile, edit/createJupyterNotebook, edit/editFiles, edit/editNotebook, edit/rename, search/changes, search/codebase, search/fileSearch, search/listDirectory, search/searchResults, search/textSearch, search/usages, web/fetch, web/githubRepo, browser/openBrowserPage, todo]
 argument-hint: "Describe the keyboard, firmware area, or QMK change you need."
 user-invocable: true
 ---
