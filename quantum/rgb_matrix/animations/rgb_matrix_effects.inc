@@ -16,6 +16,8 @@
 #include "rainbow_moving_chevron_anim.h"
 #include "cycle_out_in_anim.h"
 #include "cycle_out_in_dual_anim.h"
+#include "cycle_in_out_anim.h"
+#include "cycle_in_out_dual_anim.h"
 #include "cycle_pinwheel_anim.h"
 #include "cycle_spiral_anim.h"
 #include "dual_beacon_anim.h"
